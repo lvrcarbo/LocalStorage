@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0baaf405-8bca-4d8d-a5aa-6c417b9a8d77": {
+      "ProjectGuid": "0baaf405-8bca-4d8d-a5aa-6c417b9a8d77",
+      "DisplayName": "LocalStorageTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
